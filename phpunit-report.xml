@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Unit" tests="5" assertions="5" errors="0" warnings="0" failures="0" skipped="0" time="2.744529">
+    <testsuite name="Tests\Unit\ExampleTest" file="/var/www/html/tests/Unit/ExampleTest.php" tests="5" assertions="5" errors="0" warnings="0" failures="0" skipped="0" time="2.744529">
+      <testcase name="testCreateUser" class="Tests\Unit\ExampleTest" classname="Tests.Unit.ExampleTest" file="/var/www/html/tests/Unit/ExampleTest.php" line="15" assertions="1" time="1.141277"/>
+      <testcase name="testGetUsers" class="Tests\Unit\ExampleTest" classname="Tests.Unit.ExampleTest" file="/var/www/html/tests/Unit/ExampleTest.php" line="26" assertions="1" time="0.407424"/>
+      <testcase name="testDeleteUser" class="Tests\Unit\ExampleTest" classname="Tests.Unit.ExampleTest" file="/var/www/html/tests/Unit/ExampleTest.php" line="37" assertions="1" time="0.401687"/>
+      <testcase name="testExistingUsers" class="Tests\Unit\ExampleTest" classname="Tests.Unit.ExampleTest" file="/var/www/html/tests/Unit/ExampleTest.php" line="49" assertions="1" time="0.394222"/>
+      <testcase name="testNoExistingUsers" class="Tests\Unit\ExampleTest" classname="Tests.Unit.ExampleTest" file="/var/www/html/tests/Unit/ExampleTest.php" line="62" assertions="1" time="0.399919"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
